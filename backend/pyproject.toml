@@ -15,7 +15,10 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "backend", from = "src"}]
+name = "tick-dash-backend"
+version = "0.1.0"
+
+packages = [{include = "app"}]
 
 
 [tool.poetry.group.dev.dependencies]
