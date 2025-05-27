@@ -1,7 +1,7 @@
 """create tick table
 
 Revision ID: 2d8a2e7fa409
-Revises: 
+Revises:
 Create Date: 2025-05-26 20:30:50.077250
 
 """
